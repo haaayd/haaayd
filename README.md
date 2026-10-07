@@ -3,7 +3,7 @@
 <img align="center" src="https://i.imgur.com/bwLC8Et.png" width="400px">
 <hr>
 <h2>✨ About Me ✨</h2>
-<h3>I'm a software engineer based in San Francisco, CA. I enjoy creating and building things whether it's digitally or manually.  Outside of solving fun and elaborate problems I enjoy any physical activity- hiking🥾,  running🏃🏽‍♀️,  pilates♡, and boxing🥊. </h3>
+<h3>I enjoy creating and building things whether it's digitally or manually.  Outside of solving fun and elaborate problems I enjoy any physical activity- hiking🥾,  running🏃🏽‍♀️,  pilates♡, and boxing🥊. </h3>
 
 <hr>
  <br>
